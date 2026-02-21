@@ -12,8 +12,8 @@ This project demonstrates:
 - Ongoing risk tracking
 
 ## Contents
-- risk_register.csv – example risk register
-- risk_matrix.png – likelihood vs impact heatmap (optional)
+- risk_register.csv - example risk register
+- risk_matrix.png - likelihood vs impact heatmap (optional)
 
 ## Notes
 This is a personal sample. No proprietary or employer data is included.
